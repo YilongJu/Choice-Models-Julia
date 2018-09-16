@@ -1,0 +1,1001 @@
+,choice_set,choice
+2300,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3637,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4569,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4194,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3169,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4266,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1011,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2089,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4964,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4926,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2016,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1119,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1625,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2009,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+5018,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2152,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4274,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3573,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1480,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4846,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1726,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2048,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+308,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+138,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+534,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+3679,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+862,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+4288,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+4792,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+402,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+3788,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+4535,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1343,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+4486,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4989,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2421,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2545,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+1001,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2809,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3235,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3785,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3262,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3006,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4409,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2889,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4795,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+214,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+4621,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3548,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2518,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+3784,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+636,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+690,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+483,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2337,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+39,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+134,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4991,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2480,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2412,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2770,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1177,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4925,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3874,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2013,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1115,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4243,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4641,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2884,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3947,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4265,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4672,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4683,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4056,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2501,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+148,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+265,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+3031,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2012,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1691,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2447,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+1754,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+559,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1116,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+380,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+159,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+895,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2406,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2497,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2571,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+725,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1358,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4214,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3474,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+113,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4306,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4310,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4941,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3720,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1837,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+1939,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4700,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4046,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+333,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+452,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2814,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1586,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+624,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1122,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4045,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2802,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+142,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4704,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4197,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2255,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+502,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+398,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+3496,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4724,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+1991,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4204,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+520,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+799,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+3882,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4611,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+463,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1774,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2448,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1298,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1487,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4644,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+1544,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+2971,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1328,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3728,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2409,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4459,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1875,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4904,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1960,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2550,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2951,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+3236,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3135,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4396,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1482,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+891,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1450,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1784,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1744,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+247,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3937,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1362,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3247,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1958,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4383,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2027,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+812,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4527,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+1160,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2848,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2743,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+2753,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+2182,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2921,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3916,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+896,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3534,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4982,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+639,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1989,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4541,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4041,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+291,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+2816,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1452,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2314,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2531,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4176,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+304,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+1800,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2905,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1834,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4712,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+42,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+567,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2275,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+1431,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1705,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+1141,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+1003,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+771,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike', 'Walk')",DriveAlone
+3978,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1420,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3079,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1815,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+298,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2590,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+1793,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+302,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3920,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4844,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1564,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4334,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3722,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2247,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2885,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+49,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3884,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+137,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1891,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1002,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+1349,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+72,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+12,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4529,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike', 'Walk')",DriveAlone
+2828,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+2318,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4325,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+130,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+3245,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+30,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+31,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2433,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2964,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2211,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1525,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2125,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1569,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1309,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+202,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2439,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+4532,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1819,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+376,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3039,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3694,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2024,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+541,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3025,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3901,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+675,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(3+)
+716,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2992,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+381,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4720,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2345,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+4615,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4491,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+125,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+2946,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Bike
+4352,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+154,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+4914,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3914,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2436,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+3283,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1852,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3671,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+98,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4772,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4397,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4205,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1729,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2666,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+3180,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+971,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4625,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3926,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1095,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3629,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1826,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+348,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1240,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+4230,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1013,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1399,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2377,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+3585,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+5021,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3260,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2453,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4141,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1803,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1448,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2907,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+1695,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1505,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3915,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4412,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1654,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1470,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4692,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3132,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+2784,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2171,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+1881,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3197,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2111,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+3992,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4127,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3856,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4447,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+158,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+405,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+499,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+124,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+1299,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+1696,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4702,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2527,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2980,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+556,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2747,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+4618,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+3403,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2771,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1272,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+776,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4437,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2484,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+933,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2339,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4390,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4185,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3949,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1642,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3263,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+489,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1460,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3179,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4077,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4165,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+487,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+241,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+578,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3073,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1912,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4825,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+4814,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4010,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+666,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3758,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4783,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4375,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+192,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1457,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4719,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1992,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1367,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3827,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1172,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3891,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1189,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3509,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2670,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+29,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1051,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1867,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2219,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike', 'Walk')",DriveAlone
+3029,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3646,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4109,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2585,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+1224,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2719,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+1091,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3196,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2928,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3705,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3787,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+1523,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+3352,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+977,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+453,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3277,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+683,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1757,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+3574,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3256,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1042,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4558,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+446,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+491,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4254,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+347,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+2718,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+464,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+2630,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3895,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1529,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4060,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3658,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+882,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3526,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1620,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4173,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4001,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+910,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+1261,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+942,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2425,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1888,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4502,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4889,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3641,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+599,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2509,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+3759,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2578,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+2070,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2490,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2194,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike', 'Walk')",DriveAlone
+1330,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+1697,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2879,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+5023,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+1879,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3043,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+3253,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2823,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3652,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4110,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2277,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2367,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+349,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1533,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+2038,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2776,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1511,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3450,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4706,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+352,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4036,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+806,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+3941,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2849,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+2287,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+661,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+3068,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+976,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4094,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+2052,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3718,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1670,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+533,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1760,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1941,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+531,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3883,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3104,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2728,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+562,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+530,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+4639,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+4918,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1176,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+842,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2373,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+4711,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3319,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1414,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+314,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+651,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+2888,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2242,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+3158,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3499,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1563,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4642,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2278,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2076,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+394,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1688,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4727,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+2549,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+4835,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1250,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+871,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+4192,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+3843,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+2626,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3228,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+495,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+608,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+727,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4199,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4816,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2106,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2396,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+861,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2017,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2855,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4958,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3861,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3807,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4653,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1965,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1368,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+817,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4610,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4340,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2491,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+3237,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1412,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+218,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+2944,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+44,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2104,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+311,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+4940,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3484,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(3+)
+2772,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1651,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3340,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2955,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+3315,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+3905,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3103,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+282,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2370,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1005,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3779,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2530,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2819,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1371,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4965,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1771,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4697,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3909,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3386,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+575,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2537,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2033,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+4181,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+634,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1461,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+2091,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4928,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4012,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3412,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+245,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4960,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+849,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2601,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1580,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3636,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3022,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4250,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2878,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+1084,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+1969,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+965,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+3408,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1098,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+2804,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1643,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+500,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1043,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+582,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2528,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+1319,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1087,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1332,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3075,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2901,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2949,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4283,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4034,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1471,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4321,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4990,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+3712,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+2329,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+470,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1741,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4528,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",SharedRide(2)
+1715,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2030,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+872,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+34,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2958,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4270,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2917,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3435,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4971,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3485,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+3672,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4160,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2494,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+565,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+883,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3461,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+104,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4320,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3195,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3173,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1547,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1387,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1161,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+601,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3489,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3210,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1961,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3239,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2758,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+95,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2072,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+678,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3872,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1687,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+1813,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3464,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+1259,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3133,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+415,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2947,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1012,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3171,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+224,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3034,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2900,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1829,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3814,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3953,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1652,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2636,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3645,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+2692,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+4053,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2063,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2731,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+3664,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+269,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2049,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+4666,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2985,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1509,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+507,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+773,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+4277,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1475,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+117,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1718,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1666,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2709,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4540,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+170,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+383,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+780,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+2394,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1833,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4848,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2983,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1385,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+751,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+2866,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2565,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3594,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4120,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1386,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1721,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4954,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3653,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1658,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1085,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+1839,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1680,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1712,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+825,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4063,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1109,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+619,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3987,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+1922,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+223,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3052,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4872,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4721,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+584,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1066,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(3+)
+4478,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+906,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1692,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+496,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2102,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2177,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike', 'Walk')",SharedRide(2)
+189,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+173,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1742,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4031,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1892,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3828,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2131,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2263,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2473,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1824,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3161,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1789,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4597,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2112,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+873,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1351,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+628,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4591,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+410,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4573,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3126,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4899,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4539,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1865,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2726,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+1239,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1363,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2324,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+4884,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4481,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1934,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2381,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4130,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3462,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1437,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+1556,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1180,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4480,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4634,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2854,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+220,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4967,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2450,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+4145,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4169,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3608,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1916,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+3826,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+704,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1495,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2065,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2526,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+1262,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3581,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4545,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3647,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3343,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+3438,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+3147,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+33,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3322,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+735,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+379,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+517,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3357,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+1749,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3804,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+481,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4575,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3687,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4328,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4111,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4785,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4312,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3889,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+162,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2948,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3572,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1423,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+45,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2164,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+731,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4348,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2720,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2078,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+1246,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2808,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+4013,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2118,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1237,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+1327,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1281,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2587,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(3+)
+3088,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4973,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",SharedRide(2)
+3732,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2651,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1706,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1185,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+3798,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4121,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4436,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3036,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+867,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+548,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+3703,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3744,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1108,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2652,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+2640,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+3213,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3698,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3160,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1887,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2071,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+864,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+918,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+629,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1391,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+3504,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2629,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+4565,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4678,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1497,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2933,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1791,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2067,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3453,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2533,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Transit
+4812,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1338,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1551,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2350,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+2793,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+962,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1738,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+3852,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+538,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(3+)
+4716,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+613,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+4562,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1590,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3535,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4090,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+543,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+898,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4438,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4636,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2612,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3334,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1595,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1022,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2760,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+843,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2982,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+3618,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3400,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1507,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+217,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1995,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3289,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+1996,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2315,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(2)
+3318,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+668,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1065,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3769,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3791,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+991,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1245,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4371,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+831,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1765,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3667,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4341,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1082,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1772,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2600,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2722,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4739,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+135,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+2204,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+526,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3823,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2906,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2649,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+641,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4286,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1831,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+1936,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2179,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+2605,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2693,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+3360,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4767,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4553,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1540,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4773,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+3520,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2058,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+3726,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4126,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2154,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3140,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+70,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1248,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+728,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+866,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2034,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",SharedRide(2)
+4156,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3956,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4663,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1850,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+472,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2400,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Transit
+660,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+57,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4449,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4294,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1442,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3460,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+246,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1750,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3275,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4600,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
+2815,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+2639,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+271,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+939,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2724,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+1478,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+294,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1474,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2081,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1379,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4671,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+4494,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2355,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+195,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+514,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4874,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3857,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1014,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1907,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+979,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2215,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+406,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1902,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+32,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2795,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+854,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2308,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2471,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1364,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4701,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(2)
+1267,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+949,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+630,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4627,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1536,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Walk
+4268,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1196,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1662,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+521,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3487,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1900,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3410,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2060,"('SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",SharedRide(3+)
+378,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+2172,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",Walk
+4953,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+2916,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2160,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+3546,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",Bike
+1418,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",SharedRide(2)
+1275,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+9,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3131,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+2346,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+1593,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+1761,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+5008,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4281,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4624,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2044,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4831,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+1493,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(2)
+2372,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+253,"('SharedRide(2)', 'SharedRide(3+)', 'Transit')",Transit
+4802,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+4300,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+4912,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+3172,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+4261,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+720,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+938,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",SharedRide(3+)
+122,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",SharedRide(2)
+4895,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",DriveAlone
+2519,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Transit
+1926,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+829,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",DriveAlone
+87,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike')",DriveAlone
+3030,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",SharedRide(3+)
+528,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Bike', 'Walk')",Bike
+3267,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+4768,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+1432,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(3+)
+161,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",Walk
+1389,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit', 'Walk')",DriveAlone
+2217,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Walk')",DriveAlone
+545,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)')",DriveAlone
+2803,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Transit')",SharedRide(2)
+4959,"('DriveAlone', 'SharedRide(2)', 'SharedRide(3+)', 'Bike')",DriveAlone
